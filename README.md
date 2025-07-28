@@ -1,4 +1,5 @@
-#### Introduction
+
+### Introduction
 My name is **Koneti Sai Ram**, I graduated in 2025 with a degree in Electronics and Communication Engineering (ECE VLSI) from GITAM University.
 
 ### Training
