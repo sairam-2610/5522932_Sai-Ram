@@ -1,5 +1,5 @@
 #### Introduction
-My name is **KOneti Sai Ram**, I graduated in 2025 with a degree in Electronics and Communication Engineering (ECE VLSI) from GITAM University.
+My name is **Koneti Sai Ram**, I graduated in 2025 with a degree in Electronics and Communication Engineering (ECE VLSI) from GITAM University.
 
 ### Training
 Over the past two weeks of training, I gained foundational knowledge in Agile methodologies, version control using Git, and collaboration using GitHub.
